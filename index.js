@@ -104,7 +104,7 @@ function getOrderRequest(locationId) {
           name: "Cookie 🍪",
           quantity: "1",
           basePriceMoney: {
-            amount: requestBody.amount,
+            amount: 100,
             currency: "USD"
           }
         }
